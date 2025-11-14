@@ -1,6 +1,6 @@
 # 1. Water Pump
 
-<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:300px" />
+<img class="common_img" src="../_static/media/chapter_1/section_1/media/image2.png" style="width:500px" />
 
 ## 1.1 Product Introduction
 
@@ -33,7 +33,7 @@ Step 1: Connect water pump module to M1 port on expansion board.
 
 Step 2: Turn on robot and connect to Raspberry Pi desktop with VNC. Then, transfer the folder "**sucker**" to the desktop.
 
-Step 3: Click<img class="common_img" src="../_static/media/chapter_1/section_1/media/image5.png" style="width:50px" /> or press "**Ctrl+Alt+T**" to enter the LX terminal.
+Step 3: Click <img src="../_static/media/chapter_1/section_1/media/image5.png" style="width:50px" /> or press "**Ctrl+Alt+T**" to enter the LX terminal.
 
 <img class="common_img" src="../_static/media/chapter_1/section_1/media/image6.png" style="width:500px" />
 
